@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""0-lockboxes.py
+This module contains a method that takes a list of list of integers
+as parameter, and tells if all boxes can be opened
+"""
+
+
 def canUnlockAll(boxes):
     """Checks if all boxes can be opened
 
